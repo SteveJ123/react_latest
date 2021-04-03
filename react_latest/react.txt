@@ -1,0 +1,4 @@
+react state
+react hooks  - lifecycle hook - they made function in react to have lifecycle hook
+materialui - css framework
+typescript
