@@ -1,0 +1,11 @@
+#right{
+  display:flex;
+  flex-wrap: wrap;
+}
+.user{    
+  width: 200px;
+  text-align: center;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  height: 200px;
+}
